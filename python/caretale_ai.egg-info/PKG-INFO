@@ -1,0 +1,104 @@
+Metadata-Version: 2.4
+Name: caretale-ai
+Version: 0.1.0
+Summary: Post-discharge multimodal care companion system
+Author: CARETALE AI Team
+License: MIT
+Keywords: healthcare,ai,multimodal,care-companion
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Healthcare Industry
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: hypothesis>=6.92.0
+Requires-Dist: pydantic>=2.0.0
+Requires-Dist: python-dotenv>=1.0.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.4.0; extra == "dev"
+Requires-Dist: pytest-cov>=4.1.0; extra == "dev"
+Requires-Dist: black>=23.0.0; extra == "dev"
+Requires-Dist: ruff>=0.1.0; extra == "dev"
+Requires-Dist: mypy>=1.7.0; extra == "dev"
+Dynamic: requires-python
+
+# CARETALE AI
+
+Post-discharge multimodal care companion system designed to bridge the gap between hospital discharge and successful home recovery.
+
+## Architecture
+
+The system follows a layered architecture with clear separation of concerns:
+
+### TypeScript Layers (src/)
+- **patient-interaction-layer**: Multimodal interfaces for patient interactions
+- **multimodal-ingestion-layer**: Speech-to-text, image preprocessing, input normalization
+- **ai-orchestration-layer**: Task routing and pipeline coordination
+- **knowledge-context-layer**: RAG system and knowledge base management
+- **safety-governance-layer**: Medical scope boundaries and safety checks
+- **output-layer**: Patient and care team output formatting
+- **shared**: Common types and utilities
+
+### Python Components (python/src/)
+- **ai_pipelines**: Specialized AI pipelines
+  - care_story: Discharge note transformation
+  - understanding_verification: Confusion detection and clarification
+  - medication_clarification: Medication guidance
+  - follow_up: Reminders and engagement tracking
+- **rag_system**: Retrieval-Augmented Generation system
+- **safety**: Safety layer and hallucination detection
+- **models**: Core data models
+- **utils**: Shared utilities
+
+## Setup
+
+### TypeScript Setup
+```bash
+npm install
+npm run build
+npm test
+```
+
+### Python Setup
+```bash
+pip install -r requirements.txt
+pytest
+```
+
+## Development
+
+### TypeScript
+- Build: `npm run build`
+- Test: `npm test`
+- Lint: `npm run lint`
+- Format: `npm run format`
+
+### Python
+- Test: `pytest`
+- Format: `black python/`
+- Lint: `ruff python/`
+- Type check: `mypy python/src`
+
+## Testing Strategy
+
+The project uses both unit testing and property-based testing:
+- **Unit tests**: Specific examples and edge cases
+- **Property-based tests**: Universal properties across all inputs
+  - TypeScript: fast-check (minimum 100 iterations)
+  - Python: Hypothesis (minimum 100 iterations)
+
+### Quick Start
+```bash
+make test              # Run all tests
+make test-pbt          # Run property-based tests
+make test-pbt-intensive # Run intensive property tests (500 iterations)
+```
+
+### Documentation
+- [Testing Guide](./TESTING.md) - Comprehensive testing documentation
+- [Testing Infrastructure](./docs/testing-infrastructure.md) - Setup details
+- [Quick Reference](./docs/testing-quick-reference.md) - Templates and commands
+
+## License
+
+MIT

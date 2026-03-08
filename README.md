@@ -77,5 +77,4 @@ make test-pbt-intensive # Run intensive property tests (500 iterations)
 
 ## License
 
- Apache-2.0 license
-
+MIT

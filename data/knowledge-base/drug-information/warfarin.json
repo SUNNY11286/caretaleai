@@ -1,0 +1,26 @@
+{
+  "documentId": "di-003-warfarin",
+  "source": {
+    "organizationName": "MedlinePlus Drug Information",
+    "organizationType": "government",
+    "url": "https://medlineplus.gov/druginfo/meds/a682277.html",
+    "credibilityScore": 0.96
+  },
+  "domain": "pharmacy",
+  "content": "Warfarin is an anticoagulant (blood thinner) used to prevent blood clots in conditions like atrial fibrillation, deep vein thrombosis, or after heart valve replacement. It works by decreasing the clotting ability of blood. Brand name: Coumadin. How to take: Take once daily at the same time each day, usually in the evening. Can be taken with or without food. Dosage is individualized based on blood test results (INR). Critical information: 1) Requires regular blood tests (INR) to monitor - attend all scheduled appointments. 2) Dosage may change frequently based on test results - follow instructions carefully. 3) Maintain consistent vitamin K intake - sudden changes can affect how warfarin works. 4) Avoid activities with high risk of injury or bleeding. 5) Carry medical alert identification stating you take warfarin. Foods high in vitamin K: Green leafy vegetables (kale, spinach, collards, broccoli), Brussels sprouts, cabbage, asparagus. You can eat these but keep amounts consistent week to week. Signs of bleeding requiring immediate medical attention: Unusual bruising, pink/red/dark brown urine, red/black stools, coughing up blood, vomiting blood or material that looks like coffee grounds, severe headache, dizziness, weakness, unusual pain or swelling, prolonged bleeding from cuts, heavier than normal menstrual bleeding. Drug interactions: Many medications interact with warfarin. Always check with your doctor or pharmacist before starting or stopping any medication, including over-the-counter drugs, vitamins, and herbal supplements. Especially important: antibiotics, NSAIDs (aspirin, ibuprofen), antifungals, and many others. Alcohol: Limit alcohol consumption - can increase bleeding risk. Storage: Store at room temperature away from light and moisture. Keep out of reach of children. Missed dose: Take as soon as you remember on the same day. If you don't remember until the next day, call your doctor for instructions. Never double up. Special considerations: Inform all healthcare providers and dentists that you take warfarin before any procedure. Pregnancy: Can cause serious harm to unborn baby - use effective birth control and notify doctor immediately if you become pregnant.",
+  "metadata": {
+    "title": "Warfarin (Anticoagulant) Information",
+    "publicationDate": "2023-04-01T00:00:00Z",
+    "version": "2023.1",
+    "keywords": ["warfarin", "blood thinner", "anticoagulant", "INR", "vitamin K"],
+    "language": "en",
+    "documentType": "reference"
+  },
+  "lastUpdated": "2023-04-01T00:00:00Z",
+  "validationStatus": "validated",
+  "citationFormat": {
+    "citationText": "MedlinePlus. (2023). Warfarin. Retrieved from https://medlineplus.gov/druginfo/meds/a682277.html",
+    "citationStyle": "APA",
+    "url": "https://medlineplus.gov/druginfo/meds/a682277.html"
+  }
+}

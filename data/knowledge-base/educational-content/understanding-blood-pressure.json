@@ -1,0 +1,26 @@
+{
+  "documentId": "ec-001-blood-pressure",
+  "source": {
+    "organizationName": "National Heart, Lung, and Blood Institute",
+    "organizationType": "government",
+    "url": "https://www.nhlbi.nih.gov/health/high-blood-pressure",
+    "credibilityScore": 0.98
+  },
+  "domain": "cardiology",
+  "content": "Blood pressure is the force of blood pushing against the walls of your arteries. It's measured with two numbers: systolic (top number) and diastolic (bottom number). Normal blood pressure is less than 120/80 mmHg. High blood pressure (hypertension) is 130/80 mmHg or higher. Understanding your readings: Systolic pressure measures the force when your heart beats. Diastolic pressure measures the force when your heart rests between beats. Why it matters: High blood pressure makes your heart work harder and can damage blood vessels, increasing risk of heart attack, stroke, and kidney disease. How to measure at home: 1) Sit quietly for 5 minutes before measuring. 2) Sit with back supported, feet flat on floor, arm at heart level. 3) Take 2-3 readings one minute apart and record the average. 4) Measure at the same time each day. When to call your doctor: If your reading is 180/120 or higher, wait 5 minutes and recheck. If still high, seek immediate medical care. If you have symptoms like chest pain, shortness of breath, or vision changes, call 911.",
+  "metadata": {
+    "title": "Understanding Your Blood Pressure",
+    "publicationDate": "2023-01-05T00:00:00Z",
+    "version": "2023.1",
+    "keywords": ["blood pressure", "hypertension", "monitoring", "patient education"],
+    "language": "en",
+    "documentType": "educational"
+  },
+  "lastUpdated": "2023-01-05T00:00:00Z",
+  "validationStatus": "validated",
+  "citationFormat": {
+    "citationText": "National Heart, Lung, and Blood Institute. (2023). Understanding Your Blood Pressure. Retrieved from https://www.nhlbi.nih.gov/health/high-blood-pressure",
+    "citationStyle": "APA",
+    "url": "https://www.nhlbi.nih.gov/health/high-blood-pressure"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "documentId": "di-001-metoprolol",
+  "source": {
+    "organizationName": "MedlinePlus Drug Information",
+    "organizationType": "government",
+    "url": "https://medlineplus.gov/druginfo/meds/a682864.html",
+    "credibilityScore": 0.96
+  },
+  "domain": "pharmacy",
+  "content": "Metoprolol is a beta-blocker used to treat high blood pressure, chest pain (angina), and heart failure. It works by slowing your heart rate and relaxing blood vessels. Brand names: Lopressor, Toprol-XL. How to take: Take exactly as prescribed, usually once or twice daily. Extended-release tablets should be swallowed whole, not crushed or chewed. Take with or immediately after meals. Important information: 1) Do not stop taking suddenly - this can cause serious heart problems. Your doctor will gradually reduce your dose. 2) Check your pulse before each dose - if it's less than 50 beats per minute, contact your doctor. 3) May cause dizziness - rise slowly from sitting or lying positions. 4) Avoid alcohol as it can increase side effects. Common side effects: Tiredness, dizziness, depression, shortness of breath, slow heartbeat, diarrhea, itching or rash. Most side effects improve as your body adjusts. Serious side effects requiring immediate medical attention: Very slow heartbeat, severe dizziness or fainting, unusual weight gain, swelling of hands/feet, mental/mood changes, blue fingers/toes, new or worsening symptoms of heart failure. Drug interactions: Tell your doctor about all medications, especially other blood pressure medications, heart medications, diabetes medications, and MAO inhibitors. Storage: Store at room temperature away from light and moisture. Keep out of reach of children. Missed dose: Take as soon as you remember unless it's close to the next dose. Never double up. Special considerations: May mask signs of low blood sugar in diabetics. Can worsen asthma or breathing problems. Inform all healthcare providers and dentists that you take this medication before any surgery.",
+  "metadata": {
+    "title": "Metoprolol (Beta-Blocker) Information",
+    "publicationDate": "2023-03-15T00:00:00Z",
+    "version": "2023.1",
+    "keywords": ["metoprolol", "beta-blocker", "blood pressure", "heart medication"],
+    "language": "en",
+    "documentType": "reference"
+  },
+  "lastUpdated": "2023-03-15T00:00:00Z",
+  "validationStatus": "validated",
+  "citationFormat": {
+    "citationText": "MedlinePlus. (2023). Metoprolol. Retrieved from https://medlineplus.gov/druginfo/meds/a682864.html",
+    "citationStyle": "APA",
+    "url": "https://medlineplus.gov/druginfo/meds/a682864.html"
+  }
+}

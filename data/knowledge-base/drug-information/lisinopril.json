@@ -1,0 +1,26 @@
+{
+  "documentId": "di-002-lisinopril",
+  "source": {
+    "organizationName": "MedlinePlus Drug Information",
+    "organizationType": "government",
+    "url": "https://medlineplus.gov/druginfo/meds/a692051.html",
+    "credibilityScore": 0.96
+  },
+  "domain": "pharmacy",
+  "content": "Lisinopril is an ACE inhibitor used to treat high blood pressure and heart failure, and to improve survival after a heart attack. It works by relaxing blood vessels so blood can flow more easily. Brand names: Prinivil, Zestril. How to take: Take once daily, with or without food, at the same time each day. Swallow tablets whole with water. Important information: 1) May cause dizziness, especially when you first start or increase dose - rise slowly from sitting or lying. 2) Drink adequate fluids unless your doctor advises fluid restriction. 3) Avoid salt substitutes containing potassium unless approved by your doctor. 4) Protect from excessive sun exposure - use sunscreen and protective clothing. Common side effects: Dry cough (persistent), dizziness, headache, tiredness, nausea. The cough is harmless but bothersome - tell your doctor if it's severe. Serious side effects requiring immediate medical attention: Signs of high potassium (muscle weakness, slow/irregular heartbeat), signs of kidney problems (change in amount of urine), fainting, symptoms of a high blood pressure crisis (severe headache, vision changes, chest pain). Allergic reactions: Seek immediate medical help for signs of serious allergic reaction including swelling of face/tongue/throat, severe dizziness, trouble breathing. Drug interactions: Inform your doctor about all medications, especially diuretics (water pills), potassium supplements, NSAIDs (ibuprofen, naproxen), lithium, and other blood pressure medications. Pregnancy warning: Do not use during pregnancy - can harm unborn baby. Use effective birth control and notify doctor immediately if you become pregnant. Storage: Store at room temperature away from light and moisture. Keep out of reach of children. Missed dose: Take as soon as you remember unless it's close to the next dose. Never double up. Special considerations: Your doctor will monitor kidney function and potassium levels with blood tests. Avoid becoming dehydrated or overheated. Limit alcohol consumption.",
+  "metadata": {
+    "title": "Lisinopril (ACE Inhibitor) Information",
+    "publicationDate": "2023-03-18T00:00:00Z",
+    "version": "2023.1",
+    "keywords": ["lisinopril", "ACE inhibitor", "blood pressure", "heart failure"],
+    "language": "en",
+    "documentType": "reference"
+  },
+  "lastUpdated": "2023-03-18T00:00:00Z",
+  "validationStatus": "validated",
+  "citationFormat": {
+    "citationText": "MedlinePlus. (2023). Lisinopril. Retrieved from https://medlineplus.gov/druginfo/meds/a692051.html",
+    "citationStyle": "APA",
+    "url": "https://medlineplus.gov/druginfo/meds/a692051.html"
+  }
+}

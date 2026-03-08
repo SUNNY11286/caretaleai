@@ -1,0 +1,26 @@
+{
+  "documentId": "cg-001-heart-failure",
+  "source": {
+    "organizationName": "American Heart Association",
+    "organizationType": "professional_association",
+    "url": "https://www.heart.org/en/health-topics/heart-failure",
+    "credibilityScore": 0.95
+  },
+  "domain": "cardiology",
+  "content": "Heart failure is a chronic condition where the heart cannot pump blood effectively. Post-discharge management includes: 1) Daily weight monitoring - weigh yourself at the same time each day and report weight gain of 2-3 pounds in one day or 5 pounds in one week. 2) Medication adherence - take all prescribed medications as directed, including ACE inhibitors, beta-blockers, and diuretics. 3) Fluid restriction - limit fluid intake to 1.5-2 liters per day as recommended by your healthcare provider. 4) Sodium restriction - limit sodium intake to less than 2000mg per day. 5) Physical activity - engage in light to moderate exercise as tolerated, with rest periods. 6) Monitor symptoms - watch for increased shortness of breath, swelling in legs or ankles, persistent cough, or fatigue. Contact your healthcare provider immediately if symptoms worsen.",
+  "metadata": {
+    "title": "Heart Failure Management Guidelines",
+    "publicationDate": "2023-01-15T00:00:00Z",
+    "version": "2023.1",
+    "keywords": ["heart failure", "post-discharge", "self-management", "monitoring"],
+    "language": "en",
+    "documentType": "guideline"
+  },
+  "lastUpdated": "2023-01-15T00:00:00Z",
+  "validationStatus": "validated",
+  "citationFormat": {
+    "citationText": "American Heart Association. (2023). Heart Failure Management Guidelines. Retrieved from https://www.heart.org/en/health-topics/heart-failure",
+    "citationStyle": "APA",
+    "url": "https://www.heart.org/en/health-topics/heart-failure"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "documentId": "ec-002-medication-adherence",
+  "source": {
+    "organizationName": "Agency for Healthcare Research and Quality",
+    "organizationType": "government",
+    "url": "https://www.ahrq.gov/patients-consumers/diagnosis-treatment/treatments/pillcard/pillcard.html",
+    "credibilityScore": 0.97
+  },
+  "domain": "general_medicine",
+  "content": "Taking medications correctly is one of the most important things you can do for your health. Here's what you need to know: Why medication adherence matters: Taking medications as prescribed helps them work properly, prevents your condition from getting worse, and reduces the risk of complications or hospital readmission. Tips for remembering: 1) Use a pill organizer to sort medications by day and time. 2) Set phone alarms or reminders. 3) Link taking medication to daily routines like brushing teeth or meals. 4) Keep a medication list with you at all times. What to include on your medication list: medication name, dose, how often to take it, what it's for, and prescribing doctor. Important safety tips: 1) Never skip doses or stop taking medication without talking to your doctor. 2) Don't share medications with others. 3) Store medications properly - some need refrigeration, others should be kept dry. 4) Check expiration dates regularly. 5) Keep medications in original containers with labels. When to call your doctor: If you experience side effects, can't afford your medications, have trouble swallowing pills, or don't understand how to take them. Your pharmacist can also answer questions about your medications.",
+  "metadata": {
+    "title": "Taking Your Medications Safely",
+    "publicationDate": "2023-04-12T00:00:00Z",
+    "version": "2023.1",
+    "keywords": ["medication adherence", "patient safety", "medication management", "reminders"],
+    "language": "en",
+    "documentType": "educational"
+  },
+  "lastUpdated": "2023-04-12T00:00:00Z",
+  "validationStatus": "validated",
+  "citationFormat": {
+    "citationText": "Agency for Healthcare Research and Quality. (2023). Taking Your Medications Safely. Retrieved from https://www.ahrq.gov/patients-consumers/diagnosis-treatment/treatments/pillcard/pillcard.html",
+    "citationStyle": "APA",
+    "url": "https://www.ahrq.gov/patients-consumers/diagnosis-treatment/treatments/pillcard/pillcard.html"
+  }
+}

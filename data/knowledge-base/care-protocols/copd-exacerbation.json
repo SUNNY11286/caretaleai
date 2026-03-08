@@ -1,0 +1,26 @@
+{
+  "documentId": "cp-002-copd",
+  "source": {
+    "organizationName": "Global Initiative for Chronic Obstructive Lung Disease",
+    "organizationType": "professional_association",
+    "url": "https://goldcopd.org/patient-resources/",
+    "credibilityScore": 0.93
+  },
+  "domain": "general_medicine",
+  "content": "This protocol guides patients recovering from a COPD exacerbation requiring hospitalization. Immediate Post-Discharge (Days 1-7): Medications: Take all prescribed medications exactly as directed including inhalers, steroids, and antibiotics. Use spacer with inhalers for better delivery. Oxygen therapy: Use supplemental oxygen as prescribed. Never adjust flow rate without doctor approval. Activity: Rest frequently. Gradually increase activity as breathing allows. Use pursed-lip breathing during activities. Breathing techniques: Practice pursed-lip breathing (inhale through nose, exhale slowly through pursed lips). Use during shortness of breath and activities. Nutrition: Eat small frequent meals to avoid feeling too full which can make breathing harder. Stay hydrated. Weeks 2-4: Pulmonary rehabilitation: Begin or continue pulmonary rehabilitation program if prescribed. Medication review: Follow up with doctor to adjust medications. May begin tapering steroids. Energy conservation: Plan activities, pace yourself, and prioritize important tasks. Continue breathing exercises. Ongoing Management: Inhaler technique: Review proper technique with healthcare provider or respiratory therapist. Common mistakes reduce effectiveness. Avoid triggers: Stay away from smoke, air pollution, strong odors, and extreme temperatures. Infection prevention: Get flu and pneumonia vaccines. Wash hands frequently. Avoid crowds during cold/flu season. Action plan: Know your baseline symptoms and have a written action plan for worsening symptoms. Warning signs of another exacerbation: Increased shortness of breath, increased cough or sputum production, change in sputum color (yellow, green, or bloody), fever, increased fatigue, confusion, chest tightness, swelling in ankles or legs. Contact your doctor immediately if these occur. Emergency signs requiring 911: Severe shortness of breath at rest, blue lips or fingernails, chest pain, confusion or difficulty staying awake, rapid breathing that doesn't improve with usual treatments. Follow-up care: Week 1-2: Follow-up with primary care or pulmonologist. Month 1: Reassess medications and oxygen needs. Ongoing: Regular pulmonology appointments every 3-6 months. Smoking cessation: If you smoke, quitting is the most important thing you can do. Ask about cessation programs and medications to help.",
+  "metadata": {
+    "title": "COPD Exacerbation Post-Discharge Protocol",
+    "publicationDate": "2023-02-15T00:00:00Z",
+    "version": "2023.1",
+    "keywords": ["COPD", "exacerbation", "pulmonary rehabilitation", "breathing techniques", "oxygen therapy"],
+    "language": "en",
+    "documentType": "protocol"
+  },
+  "lastUpdated": "2023-02-15T00:00:00Z",
+  "validationStatus": "validated",
+  "citationFormat": {
+    "citationText": "Global Initiative for Chronic Obstructive Lung Disease. (2023). COPD Exacerbation Post-Discharge Protocol. Retrieved from https://goldcopd.org/patient-resources/",
+    "citationStyle": "APA",
+    "url": "https://goldcopd.org/patient-resources/"
+  }
+}

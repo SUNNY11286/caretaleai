@@ -1,0 +1,26 @@
+{
+  "documentId": "cp-003-hip-replacement",
+  "source": {
+    "organizationName": "American Academy of Orthopaedic Surgeons",
+    "organizationType": "professional_association",
+    "url": "https://orthoinfo.aaos.org/en/recovery/total-hip-replacement/",
+    "credibilityScore": 0.94
+  },
+  "domain": "orthopedics",
+  "content": "This protocol outlines the recovery process after total hip replacement surgery. Week 1-2 Post-Discharge: Hip precautions: Follow these rules to prevent dislocation: 1) Don't bend hip more than 90 degrees. 2) Don't cross legs or ankles. 3) Don't twist or pivot on the operated leg. 4) Don't turn toes inward. 5) Keep pillow between legs when sleeping on your side. Mobility: Use walker or crutches as instructed. Weight-bearing as tolerated unless told otherwise. Walk short distances several times daily. Wound care: Keep incision clean and dry. Change dressing as instructed. Watch for signs of infection. Pain management: Take pain medication as prescribed. Ice for 20 minutes several times daily. Exercises: Perform prescribed exercises 3-4 times daily including ankle pumps, quad sets, and gluteal sets. Week 3-6: Physical therapy: Attend all scheduled sessions. Continue home exercise program. Mobility: Progress from walker to cane as directed by therapist. Gradually increase walking distance. Activities: May resume light activities like cooking and light housework. Still follow hip precautions. No driving until cleared by surgeon (typically 4-6 weeks). Week 7-12: Strengthening: Focus on strengthening exercises to improve stability and function. Hip precautions: May be able to relax some precautions as directed by surgeon (typically after 6-8 weeks). Return to activities: Gradually resume normal activities. Avoid high-impact activities like running or jumping. Month 4-6: Most patients have good function and minimal pain. Continue exercises to maintain strength and flexibility. May return to low-impact activities like swimming, cycling, and golf. Long-term care: Avoid high-impact activities that could loosen the implant. Maintain healthy weight to reduce stress on the joint. Continue strengthening exercises. Regular follow-up with orthopedic surgeon. Warning signs requiring immediate medical attention: Fever over 100.4°F, increased pain not relieved by medication, increased redness, warmth, or drainage from incision, chest pain or shortness of breath, calf pain or swelling (possible blood clot), sudden increase in pain or inability to bear weight. Equipment needs: Raised toilet seat, shower chair or bench, reacher/grabber tool, long-handled shoehorn, sock aid, dressing stick. These help you follow hip precautions. Expected outcomes: Most patients experience significant pain relief and improved function. Full recovery takes 6-12 months. The implant typically lasts 15-20 years or longer.",
+  "metadata": {
+    "title": "Total Hip Replacement Recovery Protocol",
+    "publicationDate": "2023-03-10T00:00:00Z",
+    "version": "2023.1",
+    "keywords": ["hip replacement", "total hip arthroplasty", "hip precautions", "physical therapy", "orthopedic surgery"],
+    "language": "en",
+    "documentType": "protocol"
+  },
+  "lastUpdated": "2023-03-10T00:00:00Z",
+  "validationStatus": "validated",
+  "citationFormat": {
+    "citationText": "American Academy of Orthopaedic Surgeons. (2023). Total Hip Replacement Recovery Protocol. Retrieved from https://orthoinfo.aaos.org/en/recovery/total-hip-replacement/",
+    "citationStyle": "APA",
+    "url": "https://orthoinfo.aaos.org/en/recovery/total-hip-replacement/"
+  }
+}

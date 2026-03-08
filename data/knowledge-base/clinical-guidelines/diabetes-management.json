@@ -1,0 +1,26 @@
+{
+  "documentId": "cg-002-diabetes",
+  "source": {
+    "organizationName": "American Diabetes Association",
+    "organizationType": "professional_association",
+    "url": "https://diabetes.org/diabetes/medication-management",
+    "credibilityScore": 0.95
+  },
+  "domain": "general_medicine",
+  "content": "Diabetes management after hospital discharge requires careful attention to blood glucose monitoring and medication adherence. Key guidelines include: 1) Blood glucose monitoring - check blood sugar levels as prescribed, typically before meals and at bedtime. Record all readings. 2) Medication timing - take diabetes medications at the same time each day. Never skip doses. 3) Meal planning - follow a consistent carbohydrate intake pattern. Eat meals at regular times. 4) Hypoglycemia awareness - recognize symptoms of low blood sugar including shakiness, sweating, confusion, and rapid heartbeat. Always carry fast-acting glucose. 5) Foot care - inspect feet daily for cuts, blisters, or redness. Wear proper footwear. 6) Follow-up care - attend all scheduled appointments with your healthcare provider and diabetes educator. 7) Sick day management - have a plan for managing blood sugar during illness. Contact your provider if blood sugar remains high or you cannot eat.",
+  "metadata": {
+    "title": "Diabetes Post-Discharge Management",
+    "publicationDate": "2023-03-20T00:00:00Z",
+    "version": "2023.2",
+    "keywords": ["diabetes", "blood glucose", "medication adherence", "self-monitoring"],
+    "language": "en",
+    "documentType": "guideline"
+  },
+  "lastUpdated": "2023-03-20T00:00:00Z",
+  "validationStatus": "validated",
+  "citationFormat": {
+    "citationText": "American Diabetes Association. (2023). Diabetes Post-Discharge Management. Retrieved from https://diabetes.org/diabetes/medication-management",
+    "citationStyle": "APA",
+    "url": "https://diabetes.org/diabetes/medication-management"
+  }
+}

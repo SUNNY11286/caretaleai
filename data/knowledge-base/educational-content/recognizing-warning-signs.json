@@ -1,0 +1,26 @@
+{
+  "documentId": "ec-003-warning-signs",
+  "source": {
+    "organizationName": "Centers for Disease Control and Prevention",
+    "organizationType": "government",
+    "url": "https://www.cdc.gov/heartdisease/warning_signs.htm",
+    "credibilityScore": 0.98
+  },
+  "domain": "general_medicine",
+  "content": "Knowing when to seek medical help can save your life. Learn to recognize these important warning signs: Heart Attack Warning Signs: Chest discomfort (pressure, squeezing, fullness, or pain lasting more than a few minutes), discomfort in other areas (arms, back, neck, jaw, or stomach), shortness of breath, cold sweat, nausea, or lightheadedness. Women may experience different symptoms including unusual fatigue, sleep disturbances, or indigestion. Stroke Warning Signs (Act F.A.S.T.): Face drooping - ask the person to smile, does one side droop? Arm weakness - ask them to raise both arms, does one drift down? Speech difficulty - ask them to repeat a simple phrase, is speech slurred? Time to call 911 - if you see any of these signs, call immediately. Other Important Warning Signs: Sudden severe headache with no known cause, sudden confusion or trouble understanding, sudden trouble seeing in one or both eyes, sudden trouble walking or loss of balance, severe abdominal pain, difficulty breathing or shortness of breath, coughing up blood, signs of infection (fever over 100.4°F, chills, increased pain or redness). When in doubt: It's always better to seek medical attention if you're concerned. Call 911 for emergencies. For urgent but non-emergency concerns, contact your healthcare provider or visit an urgent care center.",
+  "metadata": {
+    "title": "Recognizing Medical Warning Signs",
+    "publicationDate": "2023-02-28T00:00:00Z",
+    "version": "2023.1",
+    "keywords": ["warning signs", "emergency", "heart attack", "stroke", "when to call 911"],
+    "language": "en",
+    "documentType": "educational"
+  },
+  "lastUpdated": "2023-02-28T00:00:00Z",
+  "validationStatus": "validated",
+  "citationFormat": {
+    "citationText": "Centers for Disease Control and Prevention. (2023). Recognizing Medical Warning Signs. Retrieved from https://www.cdc.gov/heartdisease/warning_signs.htm",
+    "citationStyle": "APA",
+    "url": "https://www.cdc.gov/heartdisease/warning_signs.htm"
+  }
+}

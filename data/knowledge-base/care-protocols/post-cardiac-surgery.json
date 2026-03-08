@@ -1,0 +1,26 @@
+{
+  "documentId": "cp-001-cardiac-surgery",
+  "source": {
+    "organizationName": "Society of Thoracic Surgeons",
+    "organizationType": "professional_association",
+    "url": "https://www.sts.org/patient-information/cardiac-surgery",
+    "credibilityScore": 0.94
+  },
+  "domain": "cardiology",
+  "content": "This protocol outlines standard post-discharge care for patients recovering from cardiac surgery including CABG, valve replacement, or other open-heart procedures. Week 1-2 Post-Discharge: Activity: Walk short distances (5-10 minutes) 3-4 times daily. Rest when tired. No lifting over 5 pounds. No driving. Incision care: Keep incisions clean and dry. Shower daily but don't soak in bath. Report signs of infection. Pain management: Take prescribed pain medication as needed. Gradually reduce as pain improves. Diet: Heart-healthy diet low in sodium. Small frequent meals if appetite is poor. Medications: Take all medications as prescribed including aspirin, beta-blockers, and statins. Week 3-6: Activity: Gradually increase walking distance and duration. Begin cardiac rehabilitation if prescribed. Still no lifting over 10 pounds. May resume driving if cleared by surgeon. Continue incision care until fully healed. Week 7-12: Activity: Continue increasing activity as tolerated. Complete cardiac rehabilitation program. Gradually return to normal activities and work as cleared by doctor. Follow-up appointments: Week 2: Wound check and staple/suture removal. Week 6: Surgical follow-up with surgeon. Ongoing: Regular cardiology appointments. Warning signs requiring immediate medical attention: Fever over 100.4°F, increased redness, swelling, or drainage from incisions, chest pain not relieved by rest, irregular heartbeat or palpitations, shortness of breath at rest, sudden weight gain (3+ pounds in 1 day or 5+ pounds in 1 week), swelling in legs or ankles, dizziness or fainting. Long-term considerations: Lifelong medication adherence, regular cardiology follow-up, heart-healthy lifestyle including diet and exercise, stress management, smoking cessation if applicable. Expected recovery timeline: Most patients feel significantly better by 6-8 weeks. Full recovery and return to normal activities typically takes 3-4 months. Emotional recovery: Depression and anxiety are common after cardiac surgery. Report mood changes to your healthcare provider.",
+  "metadata": {
+    "title": "Post-Cardiac Surgery Care Protocol",
+    "publicationDate": "2023-01-20T00:00:00Z",
+    "version": "2023.1",
+    "keywords": ["cardiac surgery", "CABG", "valve replacement", "post-operative care", "recovery timeline"],
+    "language": "en",
+    "documentType": "protocol"
+  },
+  "lastUpdated": "2023-01-20T00:00:00Z",
+  "validationStatus": "validated",
+  "citationFormat": {
+    "citationText": "Society of Thoracic Surgeons. (2023). Post-Cardiac Surgery Care Protocol. Retrieved from https://www.sts.org/patient-information/cardiac-surgery",
+    "citationStyle": "APA",
+    "url": "https://www.sts.org/patient-information/cardiac-surgery"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "documentId": "cg-003-wound-care",
+  "source": {
+    "organizationName": "Wound Healing Society",
+    "organizationType": "professional_association",
+    "url": "https://woundheal.org/guidelines/surgical-wound-care",
+    "credibilityScore": 0.90
+  },
+  "domain": "surgery",
+  "content": "Proper wound care after surgery is essential for healing and preventing infection. Follow these guidelines: 1) Keep the wound clean and dry - avoid getting the incision wet for the first 48 hours unless instructed otherwise. After that, gently clean with mild soap and water. 2) Dressing changes - change dressings as instructed by your healthcare provider, typically once or twice daily. Wash hands thoroughly before and after. 3) Signs of infection - monitor for redness spreading from the incision, increased warmth, swelling, pus or drainage, fever above 100.4°F, or increasing pain. Contact your provider immediately if these occur. 4) Activity restrictions - avoid heavy lifting, strenuous activity, or stretching the incision area as directed. 5) Suture or staple removal - attend your scheduled appointment for removal, typically 7-14 days after surgery. 6) Scar management - once healed, protect from sun exposure and consider silicone sheets or gel as recommended.",
+  "metadata": {
+    "title": "Post-Surgical Wound Care Guidelines",
+    "publicationDate": "2023-02-10T00:00:00Z",
+    "version": "2023.1",
+    "keywords": ["wound care", "surgical incision", "infection prevention", "post-operative"],
+    "language": "en",
+    "documentType": "guideline"
+  },
+  "lastUpdated": "2023-02-10T00:00:00Z",
+  "validationStatus": "validated",
+  "citationFormat": {
+    "citationText": "Wound Healing Society. (2023). Post-Surgical Wound Care Guidelines. Retrieved from https://woundheal.org/guidelines/surgical-wound-care",
+    "citationStyle": "APA",
+    "url": "https://woundheal.org/guidelines/surgical-wound-care"
+  }
+}
